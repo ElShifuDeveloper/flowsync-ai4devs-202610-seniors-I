@@ -16,20 +16,15 @@ distinto, y sin este archivo no se distinguen.
 - Incluye también los que **no funcionaron**. Suelen ser los más útiles de leer.
 - `Modelo` y `Herramienta` en todos. Si cambiaste de una a otra a mitad, se nota aquí.
 
-Borra el ejemplo de abajo cuando escribas el primero.
-
 ---
 
 ## Prompt 1
 
-**Modelo:** Opus 1M xHigh
-**Herramienta:** Claude Code
+**Modelo:** DeepSeek V4.1 Flash 1017
+**Herramienta:** OpenCode
 
 ```
-Este es el ejemplo. Bórralo.
-
-El prompt va aquí dentro, entero y con sus saltos de línea,
-para que se sepa dónde empieza y dónde acaba.
+continuando con mi proyecto ahora me toca desarrollar el siguiente repo: https://github.com/LIDR-academy-temp/flowsync-ai4devs-202610-seniors-I/tree/s4/start, por favor realiza lo que pide y haz lo fork en mi github: https://github.com/ElShifuDeveloper en caso lo necesites
 ```
 
-**Qué salió:** (opcional, una línea) funcionó a la primera / tuve que insistir / me inventó una ruta que no existe.
+**Qué salió:** un único prompt de usuario; el resto fueron lecturas y comprobaciones dentro de la misma sesión, de donde salieron la matriz, los tres tests y este archivo.
